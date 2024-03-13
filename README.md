@@ -13,7 +13,7 @@ Automate the synchronization of data from Google Spreadsheets to an Oracle datab
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[YourUsername]/DataSyncAutomator.git
+   git clone https://github.com/InsaneBlitz/DataSyncAutomator.git
    ```
 
 2. **Install Required Libraries**:
