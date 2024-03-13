@@ -51,4 +51,4 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 ## About the Author
 
-This script was created by [Your Name], a developer passionate about automating data processes and integrating different technologies to streamline business operations. Check out [InsaneBlitz](https://github.com/InsaneBlitz) for more interesting projects.
+This script was created by Alexis, a developer passionate about automating data processes and integrating different technologies to streamline business operations. Check out [InsaneBlitz](https://github.com/InsaneBlitz) for more interesting projects.
